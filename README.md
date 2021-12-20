@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roxana</h1>
-<h3 align="center">A passionate frontend developer from Leeds</h3>
-
-- 🔭 I’m currently working on **Leeds Trinity University Digital Coding**
+<h3 align="center">A passionate front-end developer from Leeds</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
